@@ -1,4 +1,4 @@
-# 👋 Cześć! Witamy na moim profilu GitHub 🚀
+# 👋 Cześć! Witam na moim profilu GitHub 🚀
 
 Jestem **studentem informatyki** na PJATK i pasjonuję się programowaniem oraz technologiami webowymi. Na moim profilu znajdziesz projekty, które rozwijam zarówno w ramach nauki, jak i z czystej pasji do kodu! 💻
 
