@@ -31,7 +31,6 @@ Jestem **studentem informatyki** na PJATK i pasjonuję się programowaniem oraz 
   ![JetBrains](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)  
 
-
 ## 🌱 Co obecnie robię?
 
 - 🛠️ **Pracuję nad:**  
