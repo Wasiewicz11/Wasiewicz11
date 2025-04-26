@@ -35,13 +35,14 @@ Jestem **studentem informatyki** na PJATK i pasjonuję się programowaniem oraz 
 
 - 🛠️ **Pracuję nad:**  
   - **Aplikacjami webowymi** z użyciem **ASP.NET Core** (backend). 
-  - Budowaniem systemów **REST API** i integrowaniem ich z frontendem.    
+  - Budowaniem **API** i integrowaniu ich z frontendem.    
   - **Aplikacjami w Javie** — głównie do projektów na studia.
 
 - 📚 **Uczę się:**  
   - Projektowania zaawansowanych systemów webowych w **ASP.NET Core**. 
   - Optymalizacji wydajności aplikacji webowych.  
-  - Nowoczesnych narzędzi do testowania, takich jak **xUnit**, **JUnit**. 
+  - Nowoczesnych narzędzi do testowania, takich jak **xUnit**, **JUnit**.
+  - Tworzenia aplikacji w języku **Swift**
   - **Bazy danych SQL i NoSQL**.
 
 ## ✨ Kontakt
